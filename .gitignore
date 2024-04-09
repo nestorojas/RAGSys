@@ -1,0 +1,19 @@
+# Virtual environment directory
+.venv/
+
+# Environment file
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE specific files
+# (adjust based on your IDE)
+*.pyc
+
+# Compiled files
+__pycache__/
+
+# IDE/Editor specific temp files
+*.idea/
+.vscode/
